@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\bin\Debug\net8.0\fatorial.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\bin\Debug\net8.0\fatorial.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\bin\Debug\net8.0\fatorial.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\bin\Debug\net8.0\fatorial.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\bin\Debug\net8.0\fatorial.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\fatorial.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\fatorial.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\fatorial.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\fatorial.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\refint\fatorial.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\fatorial.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\fatorial.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex7\fatorial\obj\Debug\net8.0\ref\fatorial.dll

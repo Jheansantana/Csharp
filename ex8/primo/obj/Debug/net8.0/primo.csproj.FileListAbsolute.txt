@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\bin\Debug\net8.0\primo.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\bin\Debug\net8.0\primo.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\bin\Debug\net8.0\primo.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\bin\Debug\net8.0\primo.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\bin\Debug\net8.0\primo.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\primo.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\primo.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\primo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\primo.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\refint\primo.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\primo.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\primo.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex8\primo\obj\Debug\net8.0\ref\primo.dll
