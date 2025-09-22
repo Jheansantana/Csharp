@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\bin\Debug\net8.0\Num.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\bin\Debug\net8.0\Num.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\bin\Debug\net8.0\Num.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\bin\Debug\net8.0\Num.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\bin\Debug\net8.0\Num.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\Num.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\Num.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\Num.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\Num.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\refint\Num.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\Num.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\Num.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex2\Num\obj\Debug\net8.0\ref\Num.dll
