@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\bin\Debug\net8.0\regressiva.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\bin\Debug\net8.0\regressiva.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\bin\Debug\net8.0\regressiva.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\bin\Debug\net8.0\regressiva.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\bin\Debug\net8.0\regressiva.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\regressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\regressiva.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\regressiva.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\regressiva.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\regressiva.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\refint\regressiva.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\regressiva.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\regressiva.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_4\regressiva\obj\Debug\net8.0\ref\regressiva.dll
