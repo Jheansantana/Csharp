@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\bin\Debug\net8.0\calculadora.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\bin\Debug\net8.0\calculadora.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\bin\Debug\net8.0\calculadora.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\bin\Debug\net8.0\calculadora.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\calculadora.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\refint\calculadora.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\calculadora.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex_5\calculadora\obj\Debug\net8.0\ref\calculadora.dll

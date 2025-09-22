@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\bin\Debug\net8.0\tabuada.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\bin\Debug\net8.0\tabuada.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\bin\Debug\net8.0\tabuada.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\bin\Debug\net8.0\tabuada.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\bin\Debug\net8.0\tabuada.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\tabuada.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\tabuada.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\refint\tabuada.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\tabuada.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\tabuada.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex6\tabuada\obj\Debug\net8.0\ref\tabuada.dll
