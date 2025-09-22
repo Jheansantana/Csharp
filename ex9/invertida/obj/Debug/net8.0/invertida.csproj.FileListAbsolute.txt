@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\bin\Debug\net8.0\invertida.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\bin\Debug\net8.0\invertida.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\bin\Debug\net8.0\invertida.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\bin\Debug\net8.0\invertida.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\bin\Debug\net8.0\invertida.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\invertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\invertida.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\invertida.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\invertida.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\invertida.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\refint\invertida.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\invertida.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\invertida.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex9\invertida\obj\Debug\net8.0\ref\invertida.dll

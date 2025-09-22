@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\bin\Debug\net8.0\palavra.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\bin\Debug\net8.0\palavra.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\bin\Debug\net8.0\palavra.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\bin\Debug\net8.0\palavra.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\bin\Debug\net8.0\palavra.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\palavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\palavra.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\palavra.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\palavra.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\palavra.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\refint\palavra.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\palavra.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\palavra.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\ex10\palavra\obj\Debug\net8.0\ref\palavra.dll
